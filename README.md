@@ -1,9 +1,12 @@
 # prioect_viena
 PROIECT PROGRAMARE INTERNET
+---
 Bine ai venit la **Descoperă Viena**! 
+---
 Acest site prezintă cele mai importante obiective turistice, gastronomia tradițională și cultura vibrantă a capitalei Austriei.
-
+---
 ##Structura Proiectului
+```
 viena/
 │
 ├── index.php              # Pagina principală
@@ -23,7 +26,8 @@ viena/
 │
 └── sql/
     └── viena.sql          # Scriptul SQL pentru baza de date
-
+```
+---
 ## Cerințe Tehnice
 
 Pentru a rula acest proiect, ai nevoie de:
